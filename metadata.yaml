@@ -1,0 +1,26 @@
+_repo: Ralph-the-Train-DispatcherThe-Mystery-of-the-Pay-Car_38969
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38969-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Chapman, Allen
+    gutenberg_agent_id: '2575'
+    url: http://www.gutenberg.org/2009/agents/2575
+description: ''
+gutenberg_issued: '2012-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38969'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Railroad stories'
+- !lcsh 'Mystery and detective stories'
+- !lcc 'PZ'
+- !lcsh 'Railroads -- Juvenile fiction'
+title: Ralph, the Train Dispatcher; Or, The Mystery of the Pay Car
+url: http://www.gutenberg.org/ebooks/38969
