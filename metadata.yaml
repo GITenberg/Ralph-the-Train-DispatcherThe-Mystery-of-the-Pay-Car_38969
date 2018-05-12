@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '2575'
     url: http://www.gutenberg.org/2009/agents/2575
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38969#Ralph-the-Train-DispatcherThe-Mystery-of-the-Pay-Car
 gutenberg_issued: '2012-02-27'
 gutenberg_type: Text
 identifiers:
